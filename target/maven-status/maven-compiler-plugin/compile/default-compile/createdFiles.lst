@@ -1,0 +1,6 @@
+base\BasePage.class
+utils\DriverUtils.class
+pageObjects\RegisterPage.class
+pageObjects\LoginPage.class
+utils\DriverFactory.class
+pageObjects\HomePage.class
